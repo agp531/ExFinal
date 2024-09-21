@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ExBD</string>
+    <string name="todo">TODO</string>
+    <string name="dev_allan_gabriel">Dev. Allan Gabriel</string>
+    <string name="app_desenvolvido_para_a_atividade_final_de_desenvolvimento_para_dispositivos_m_veis">App desenvolvido para a atividade final de Desenvolvimento para Dispositivos Móveis</string>
+    <string name="nome_do_snack">Nome do Snack</string>
+    <string name="descri_o">Descrição</string>
+    <string name="valor">Valor</string>
+    <string name="salvar">Salvar</string>
+    <string name="nome_do_snack2">Nome do Snack</string>
+    <string name="atualizar">Atualizar</string>
+    <string name="nome">Nome</string>
+    <string name="deletar_snack">Deletar Snack</string>
+    <string name="adicionar_snack">Adicionar Snack</string>
+    <string name="profile">Profile</string>
+</resources>
